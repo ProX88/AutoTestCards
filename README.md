@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pfukpwlntsa4ohd1?svg=true)](https://ci.appveyor.com/project/ProX88/autotestcards)
